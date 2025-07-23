@@ -4,6 +4,20 @@
 
 * [Generics and Subtyping](GenericsGiladBracha/GenericsAndSubtyping.md)
 
+* [Wildcards](GenericsGiladBracha/Wildcards.md)
+
+* [Generic Methods](GenericsGiladBracha/GenericMethods.md)
+
+* [Interoperating with Legacy Code](GenericsGiladBracha/InteroperatingWithLegacyCode.md)
+
+* [The Fine Print](GenericsGiladBracha/TheFinePrint.md)
+
+* [Class Literals as Runtime-Type Tokens](GenericsGiladBracha/ClassLiteralsAsRuntimeTypeTokens.md)
+
+* [More Fun with Wildcards](GenericsGiladBracha/MoreFunWithWildcards.md)
+
+* [Converting Legacy Code to Use Generics](GenericsGiladBracha/ConvertingLegacyCodeToUseGenerics.md)
+
 
 [Oracle Generics Tutorial](OraclaGenericDocumentation/Generics.md)
 
